@@ -1,0 +1,9 @@
+# macOS files
+.DS_Store
+
+# RStudio temporary files
+.Rproj.user/**
+
+# Large data files
+data/GSE110554-data.RData
+data/annEPIC.RData
